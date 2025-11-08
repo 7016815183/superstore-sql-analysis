@@ -229,7 +229,6 @@ It highlights strong **SQL query writing, analytical thinking, and business inte
 ## 👨🏻‍💻 Author  
 **Bhavya Panchal**  
 💡 SQL | Power BI | Excel | Data Analytics  
-🔗 [LinkedIn](#) | [GitHub](#)
 
 ---
 
