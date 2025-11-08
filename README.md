@@ -233,11 +233,3 @@ It highlights strong **SQL query writing, analytical thinking, and business inte
 
 ---
 
-## 📁 Project Folder Structure (Optional)
-```
-📁 Superstore-SQL-Analysis/
- ├── dataset.csv
- ├── superstore_analysis.sql
- ├── README.md
-```
--
